@@ -35,7 +35,7 @@ Dashboard de análise de campanhas de marketing desenvolvido em Power BI, com fo
 
 ## 🔗 Acesse o Dashboard
 
-> Clique aqui para visualizar o relatório no Power BI ← (https://app.powerbi.com/groups/me/reports/44be1ecd-62ea-4c48-8c93-88a75a50897a/b31321427a83d28000a0?experience=power-bi)
+> Clique aqui para visualizar o relatório no Power BI ← (https://app.powerbi.com/groups/me/reports/44be1ecd-62ea-4c48-8c93-88a75a50897a/7687c5be0b1a0280779a?experience=power-bi)
 
 ---
 
