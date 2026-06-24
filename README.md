@@ -40,7 +40,7 @@ Dataset baseado no **["Customer Personality Analysis"](https://www.kaggle.com/da
 
 ## 🔗 Acesse o relatório
 
-[Acesse o dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjkzZWU4OGItMjFmMi00YTlkLWI3ZDktZDkwNmVmNjFjMjc0IiwidCI6ImIyZTE2Mjk3LTJlZDYtNDFiOC1iODIyLWE5NTRlOTViZDJmMCIsImMiOjR9)
+[Acesse o dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjkzZWU4OGItMjFmMi00YTlkLWI3ZDktZDkwNmVmNjFjMjc0IiwidCI6ImIyZTE2Mjk3LTJlZDYtNDFiOC1iODIyLWE5NTRlOTViZDJmMCIsImMiOjR9&pageName=7687c5be0b1a0280779a)
 
 ## 📌 Limitações e próximos passos
 
